@@ -5,4 +5,6 @@ Ready to run on a RPI (based on alpine), and preconfigured with folders ready to
 
 Assumes there is a php-fpm instance running on a 'php' container, and that flex app is in /var/www/.
 
+Includes config to run magento2 as well.
+
 This is a personal toy, do not use this for anything unless you are willing to make it work for you.
